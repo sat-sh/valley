@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "madhu"
+
+# disc space
+df -h
